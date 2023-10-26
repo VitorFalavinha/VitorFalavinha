@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorFalavinha,
-- 👀 I’m interested in photography, design, technology and communication.
-- 🌱 I’m currently learning HTML. CSS and JavaScript.
+- 👀 I’m interested in technology, communication, photography and art.
+- 🌱 I’m currently learning about programming and algorithms. I've also got intermediate HTML, CSS and JavaScript knowledge. 
 - 💞️ I’m looking foward to collaborating on the development and improvement of Web pages. 
 - 📫 How to reach me https://www.linkedin.com/in/vitor-falavinha-742a25157/
 
