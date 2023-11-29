@@ -1,4 +1,5 @@
 Hi, I’m Vitor Falavinha,
+
 I’m a curious human being, interested in technology, communication, and art.
 At the moment I am learning about programming and algorithms. I've got basic HTML, CSS, JavaScript and Python knowledge. 
 I’m looking foward to collaborating on the development and improvement of Web Systems. 
