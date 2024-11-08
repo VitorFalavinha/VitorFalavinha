@@ -1,8 +1,17 @@
-Hi, I’m Vitor Falavinha,
+Hey! Sou um amante da tecnologia com foco em desenvolvimento de software e automação. 
 
-I’m a curious human being, interested in technology, communication, and art.
-At the moment I am learning about automation and data science. I've got some Python knowledge. 
-I’m looking foward to collaborating on the development and improvement of automated processes. 
+Tenho experiência em:
+
+- Python
+- Django
+- Automações com PyAutoGUI e Selenium
+- Desenvolvimento Web com Javascript
+- Manipulação de dados com Excel, SQL e Power BI
+  
+Estou sempre em busca de novos desafios e aprendizado constante, estou explorando áreas como visão computacional, IoT e Engenharia de software. 
+
+Vamos colaborar e criar soluções inovadoras juntos!
+
 
 - 📫 How to reach me https://www.linkedin.com/in/vitor-falavinha-742a25157/
 
