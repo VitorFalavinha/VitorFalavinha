@@ -5,8 +5,10 @@ Tenho experiência em:
 - Python
 - Automações com PyAutoGUI e Selenium
 - Modelos de visão computacional YOLO e OpenCV
-- Manipulação de dados com Excel, SQL e Power BI
+- Manipulação e análise de dados com Excel, SQL e Power BI
 - Atualmente estou explorando o universo da Azure + Databricks
+
+Sou membro do grupo de estudos GAIA (Grupo de Automação e Inteligência Artificial) da FATEC Araraquara, onde posso aprofundar meus conhecimentos na teoria e em ferramentas de IA e Automação. 
   
 Estou sempre em busca de novos desafios e aprendizado constante, estou explorando áreas como Visão computacional e Engenharia de dados. 
 
