@@ -1,4 +1,4 @@
-Hey! Sou um amante da tecnologia com foco em dados e automação. 
+Hey! Sou desenvolvedor de sistemas, com foco em dados e automações. 
 
 Tenho experiência em:
 
